@@ -1,27 +1,40 @@
 # Hi, I’m Laura 👋
 
-Data Analyst with a strong foundation in SQL, data quality, and analytics-driven decision making. I specialize in building complex SQL queries to audit, validate, and transform large datasets, with a focus on accuracy, compliance, and repeatable logic.
+I'm a Data Analyst specializing in SQL development, business intelligence, and data-driven decision-making within the financial services industry.
 
-My work centers on translating messy, real-world business rules into clean, defensible data outputs that stakeholders can trust. I have hands-on experience developing end-to-end analytical solutions, including query design, exception logic, documentation, and self-service data resources. I regularly work with compliance-driven data, investor rules, and time-based evaluations, and I thrive in environments where precision and accountability matter.
+I turn complex business questions into actionable insights by developing end-to-end analytical solutions, from data extract and validation to performance measurement, visualization, and strategic recommendations.
+
+My experience includes writing and optimizing complex SQL queries in Snowflake, building Power BI dashboards for senior leadership, and analyzing lead performance and conversion rates, and developing data solutions that support business strategy.
+
+I've also developed AI agents within Snowflake to support leadership with lead strategy and analytical insights.
+
+With a background in financial services, risk management, quality monitoring, and regulatory compliance, I bring both technical expertise and business understanding to my work.
 
 ---
 
 ## 📊 Core Skills
 
-- SQL (SSMS, complex joins, temp tables, CASE logic)
-- Data validation, auditing, and exception analysis
-- Business rule translation into technical logic
-- Data documentation and technical specifications
-- Process improvement and analytics problem-solving
+- Advanced SQL development, CTEs, complex joins, and query optimization
+- Snowflake data analysis and table creation
+- Power BI dashboard development and data visualization
+- Data validation, troubleshooting, and quality assurance
+- Business intelligence, KPI development, and performance analytics
+- Lead conversion, cost analysis, and marketing performance measurement
+- Business requirements analysis and technical documentation
+- AI agent development using Snowflake
+- Cross-functional collaboration and stakeholder reporting
 
 ---
 
 ## 🛠️ Tools & Technologies
 
-- SQL Server  
+- SQL Server/SSMS
+- Snowflake
 - Power BI  
 - Python  
-- GitHub  
+- GitHub
+- Visual Studio Code
+- Microsoft Excel
 
 ---
 
