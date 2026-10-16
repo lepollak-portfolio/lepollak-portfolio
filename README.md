@@ -38,23 +38,45 @@ With a background in financial services, risk management, quality monitoring, an
 
 ---
 
+
 ## 📁 Portfolio Projects
 
-This repository showcases SQL queries answering business questions using a mock Netflix schema. The focus is on **real-world analytics patterns**, not toy examples.
+My portfolio showcases practical data analytics projects focused on solving business problems through SQL development, data modeling, business intelligence, and interactive reporting.
 
-### What this project demonstrates:
-- Relational schema design
-- Production-style SQL queries using clear, auditable logic
-- Aggregations, filtering, and business-driven analysis
-- Structuring queries for readability, reuse, and downstream reporting
-- Alignment between SQL outputs and Power BI visualizations
+Projects demonstrate my approach to transforming raw data into meaningful insights, developing reliable analytical solutions, and communicating findings that support data-driven decisions.
 
-📌 **Related project:**  
-- Power BI Netflix Content Analysis Dashboard  
-  https://github.com/lepollak-portfolio/power-bi-netflix-content-analysis
+### 🎬 Netflix Content Analysis | SQL & Power BI
+
+An analytical project using a mock Netflix dataset to explore content trends, answer business questions, and develop interactive reporting solutions.
+
+**Technical Skills Demonstrated:**
+- Relational database design and SQL development
+- Data aggregation, filtering, and analytical queries
+- Business-driven data exploration and reporting
+- Structured, readable, and reusable SQL logic
+- Power BI data visualization and reporting
+
+**Related Project:**
+[Power BI Netflix Content Analysis Dashboard](https://github.com/lepollak-portfolio/power-bi-netflix-content-analysis)
+
+### 🚀 Upcoming Portfolio Projects
+
+I'm expanding my portfolio with advanced business intelligence and financial analytics projects demonstrating:
+
+- Complex SQL transformations and data modeling
+- Advanced Power BI reporting and interactive dashboards
+- Financial performance, spending, and conversion analysis
+- Executive-level KPI reporting and analytical storytelling
+
+Projects will use publicly available or synthetic data to demonstrate real-world analytical techniques while maintaining data confidentiality.
 
 ---
 
 ## 🎓 Education
 
-Currently completing a **Computer Science degree** with a focus on **Data Analytics and Software Engineering**, while continuing to expand my analytics toolkit and portfolio through practical, real-world projects.
+**Bachelor of Science in Computer Science**  
+Southern New Hampshire University | In Progress  
+**Concentration:** Data Analysis
+
+Continuing to strengthen my expertise in programming, statistics, data structures, and analytical problem-solving, with a focus on applying technical knowledge to business intelligence, advanced analytics, and data-driven decision-making.
+  
